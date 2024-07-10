@@ -6,14 +6,14 @@ This repository groups the python notebook produced for the "Statistical and Mat
  - direct methods for linear systems
  - floating point aritmetic
 
-### HOMEWORK - 2
+#### HOMEWORK - 2
  - visualizing dyad
  - classification of MNIST digits with SVD decomposition
  - clustering with PCA
 
-### HOMEWORK - 3
+#### HOMEWORK - 3
  - optimization via Gradient Descent
  - optimization via Stochastic Gradient Descent
 
-### HOMEWORK - 4
- - 
+#### HOMEWORK - 4
+ - Maximum Likelihood Estimation (MLE) and Maximum a Posteriori (MAP)
