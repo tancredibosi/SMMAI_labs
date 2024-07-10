@@ -1,3 +1,3 @@
-# Artificial-Intelligence-Unibo
+# SMMAI - 2023/2024
 
-This repository groups some of my projects of the master bachelor degree in Artificial Intelligence (University of Bologna).
+This repository groups the python notebook produced for the "Statistical and Mathematical Methods for AI" course of the master bachelor degree in Artificial Intelligence (University of Bologna).
